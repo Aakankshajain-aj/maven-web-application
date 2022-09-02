@@ -50,7 +50,7 @@ stages{
 //   }
 //   }
 //   */
-// }//Stages Closing
+}//Stages Closing
 
 // post{
 
@@ -71,4 +71,4 @@ stages{
 // }
 
 
-//} //Pipeline closing
+} //Pipeline closing
